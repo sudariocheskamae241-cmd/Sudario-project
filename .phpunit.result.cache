@@ -1,0 +1,1 @@
+{"version":2,"defects":{"Tests\\Feature\\TaskCrudTest::test_tasks_index_page_can_be_rendered":7,"Tests\\Feature\\TaskCrudTest::test_user_can_create_task":7},"times":{"Tests\\Feature\\TaskCrudTest::test_tasks_index_page_can_be_rendered":0.079,"Tests\\Feature\\TaskCrudTest::test_user_can_create_task":0.017}}
