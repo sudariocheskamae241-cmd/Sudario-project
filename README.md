@@ -1,34 +1,7 @@
-# Task Manager CRUD - Laravel
+# Doctrine Inflector
 
-Project Code: WST21-PM-2026-SF
-Student Name: Cheska Mae Sudario
-Course & Year: BSIT 2nd Year
-Database Used: MySQL
+Doctrine Inflector is a small library that can perform string manipulations
+with regard to uppercase/lowercase and singular/plural forms of words.
 
-## Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
-
-## Project Description
-This Laravel project allows  the users to manage their tasks with full CRUD functionality. The system supports adding a new task, viewing all saved tasks, editing existing tasks, deleting tasks, and changing their status between Pending and Completed.
-
-## Requirements Included
-- Laravel
-- Routes
-- Controller
-- Model
-- Blade Views
-- Database
-
-## Run the Project
-1. Navigate to the project folder.
-2. Run: `composer install`
-3. Run: `php artisan migrate`
-4. Run: `php artisan serve`
-5. Open: `http://localhost:8000/tasks`
-
-## Notes
-The app is built with a MySQLdatabase for local development and includes a simple Bootstrap-based interface for task management.
+[![Build Status](https://github.com/doctrine/inflector/workflows/Continuous%20Integration/badge.svg)](https://github.com/doctrine/inflector/actions?query=workflow%3A%22Continuous+Integration%22+branch%3A4.0.x)
+[![Code Coverage](https://codecov.io/gh/doctrine/inflector/branch/2.0.x/graph/badge.svg)](https://codecov.io/gh/doctrine/inflector/branch/2.0.x)
