@@ -1,9 +1,9 @@
 # Task Manager CRUD - Laravel
 
 Project Code: WST21-PM-2026-SF
-Student Name: [Your Name]
-Course & Year: [Course & Year]
-Database Used: SQLite
+Student Name: Cheska Mae Sudario
+Course & Year: BSIT 2nd Year
+Database Used: MySQL
 
 ## Features
 - Add Task
@@ -13,7 +13,7 @@ Database Used: SQLite
 - Update Status
 
 ## Project Description
-This Laravel project allows users to manage tasks with full CRUD functionality. The system supports adding a new task, viewing all saved tasks, editing existing tasks, deleting tasks, and changing their status between Pending and Completed.
+This Laravel project allows  the users to manage their tasks with full CRUD functionality. The system supports adding a new task, viewing all saved tasks, editing existing tasks, deleting tasks, and changing their status between Pending and Completed.
 
 ## Requirements Included
 - Laravel
@@ -31,4 +31,4 @@ This Laravel project allows users to manage tasks with full CRUD functionality. 
 5. Open: `http://localhost:8000/tasks`
 
 ## Notes
-The app is built with a SQLite database for local development and includes a simple Bootstrap-based interface for task management.
+The app is built with a MySQLdatabase for local development and includes a simple Bootstrap-based interface for task management.
